@@ -1,7 +1,10 @@
 # TheLabyrinth
 
 Проект на Unreal Engine 5.2.1, созданный за 7 дней с применением bp&c++. Совместно разработан с моим другом Render - https://t.me/Render_Official.
+
 Геймплейный ролик – https://youtu.be/pMPQyztgltk
+
+Страница на Itch.io - https://omega-quality.itch.io/the-labyrinth
 
 Процесс разработки:
 Первым делом была реализована генерация лабиринта. Backtracking алгоритм генерации лабиринта; спавн стен были написан мной полностью с нуля. Эта часть реализована на c++.
