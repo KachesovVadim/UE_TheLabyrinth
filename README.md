@@ -4,7 +4,7 @@
 
 Геймплейный ролик – https://youtu.be/pMPQyztgltk
 
-Страница на Itch.io - https://omega-quality.itch.io/the-labyrinth
+Страница на Itch.io (можно скачать собранную версию игры) - https://omega-quality.itch.io/the-labyrinth
 
 Процесс разработки:
 Первым делом была реализована генерация лабиринта. Backtracking алгоритм генерации лабиринта; спавн стен были написан мной полностью с нуля. Эта часть реализована на c++.
