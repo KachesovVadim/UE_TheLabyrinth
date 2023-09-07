@@ -1,6 +1,6 @@
 # TheLabyrinth
 
-Проект на Unreal Engine 5, созданный за 7 дней с применением bp&c++. Совместно разработан с моим другом Render - https://t.me/Render_Official.
+Проект на Unreal Engine 5.2.1, созданный за 7 дней с применением bp&c++. Совместно разработан с моим другом Render - https://t.me/Render_Official.
 Геймплейный ролик – https://youtu.be/pMPQyztgltk
 
 Процесс разработки:
